@@ -1,5 +1,11 @@
+import Map from "./pages/Map";
+
 function App() {
-  return null;
+  return (
+    <div>
+      <Map />
+    </div>
+  );
 }
 
 export default App;
